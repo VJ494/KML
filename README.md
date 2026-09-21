@@ -1,6 +1,7 @@
-<<<<<<< Updated upstream
+
 # KML Kylian Mbappé Lottin is a French football superstar, currently playing as a forward for Real Madrid and captaining the French national team. He is widely regarded as one of the best players in the world, known for his blistering pace, dribbling, and finishing, and has already scored over 400 career goals THE BEST EVER!!!!!!
-=======
+
+
 
 # Project Mbappé ⚽
 
@@ -20,4 +21,8 @@ The goal of this project is to celebrate Mbappé’s career and use his story as
 
 KML Kylian Mbappé Lottin is a French football superstar, currently playing as a forward for Real Madrid and captaining the French national team. He is widely regarded as one of the best players in the world, known for his blistering pace, dribbling, and finishing, and has already scored over 400 career goals THE BEST EVER!!!!!!
 
->>>>>>> Stashed changes
+
+
+
+Kylian Mbappé deserves the Ballon d’Or because he has consistently proven himself as the most decisive player in world football, combining extraordinary pace, skill, and finishing with leadership on the biggest stages. He is already France’s all-time top scorer, has dominated both Ligue 1 and La Liga, and delivered historic performances in World Cup finals, including a hat-trick in 2022. With over 400 career goals, multiple Golden Boots, and a Champions League Golden Boot in 2026, his impact is unmatched — he is not just a star, but the player who defines this era of football.
+
